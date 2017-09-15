@@ -21,6 +21,7 @@
  ![sms project](https://user-images.githubusercontent.com/9977351/30465855-2e204e62-99b0-11e7-8c05-7e6dedb96f67.png)
  
  <h1> Funcionalidades:</h1><br>
+ 
 <b>[FUNC_1] :</b> Cliente - Enviar SMS.
 
 <b>[FUNC_2] :</b> Cliente - Verificar saldo para envio de SMS.
